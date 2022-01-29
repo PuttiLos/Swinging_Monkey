@@ -30,3 +30,6 @@ with stack or queue and using proper Java collection APIs. Recursive methods are
 - How do you skip invalid tree-pairs ?
 - Demonstrate how your algorithm works step-by-step until all pairs are found, using the example of 5 trees (19, 17, 15, 20, 20 ft). Show the states of your data structures in each step. Use pictures/diagrams to elaborate your example.
 5. Exception handling on convenient limitation. For example, don’t give a limitation that your program will crash if the tree height is negative just because you are too lazy to check for valid input.
+___
+
+Our report for this puzzle is available : [Click](https://drive.google.com/file/d/1xvG3f4jknZC7PFI2SX40vjpVK5ag9tUm/view?usp=sharing) (Thai)
